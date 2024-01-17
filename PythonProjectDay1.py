@@ -10,4 +10,3 @@ pet = input("What's your pet's name?")
 bandname = city + pet
 #5. Make sure the input cursor shows on a new line:
 print(bandname)
-# Solution: https://replit.com/@appbrewery/band-name-generator-end
